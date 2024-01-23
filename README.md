@@ -3,7 +3,7 @@ Welcome to the Restaurant Management System (RMS)!
 This Python script provides a simple and interactive way to manage restaurant orders.
 The system is designed with a user-friendly command-line interface and a basic graphical user interface (GUI) using the tkinter library.
 ***********************************************
-*Features*
+*Features*  
 1.Ordering System: Users can place orders by selecting items from the menu.
 2.Menu Display: The script displays the restaurant menu for users to choose from.
 3.Order Preparation: The system processes orders, prepares the selected items, and calculates the total bill.
