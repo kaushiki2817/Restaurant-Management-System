@@ -12,7 +12,7 @@ The system is designed with a user-friendly command-line interface and a basic g
 
  
 *Immerse yourself in the culinary journey by specifying your restaurant's name and menu details from the indispensable "RMS input file.txt"-a crucial step for effective testing and seamless program execution.
-RMS input file.txt
+
 
 Graphical User Interface (GUI):  
 1.Ensure you have the tkinter library installed (pip install tk).  
