@@ -112,7 +112,7 @@ if __name__=='__main__':
     #window size
     window.geometry("400x400")
     #Label
-    tk.Label(window,text=restaurant_name,font=("Eras Bold ITC",25)).place(x=95,y=30)
+    tk.Label(window,text=restaurant_name,font=("Eras Bold ITC",25)).place(x=200,y=60,anchor='center')
     #SubLabel
     tk.Button(window,text="MENU",font=("Times",10),width=23,height=2,command=restaurant_system.display_menu).place(x=120,y=115)
     #Button
