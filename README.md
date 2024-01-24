@@ -26,4 +26,4 @@ Feel free to customize the script or contribute to its improvement. If you encou
 
 Thank you for using the Restaurant Management System! Enjoy your coding and dining experience! 🍽️👩‍🍳 
 
-</
+
