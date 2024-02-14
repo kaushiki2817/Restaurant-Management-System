@@ -12,6 +12,7 @@ The system is designed with a user-friendly command-line interface and a basic g
 
  
 *Immerse yourself in the culinary journey by specifying your restaurant's name and menu details from the indispensable "RMS input file.txt"-a crucial step for effective testing and seamless program execution.
+![WhatsApp Image 2024-02-14 at 5 30 42 PM](https://github.com/kaushiki2817/Restaurant-Management-System/assets/156915055/13680bd9-c834-4b8e-b79d-6c3514bbb0c3)
 
 
 Graphical User Interface (GUI):  
